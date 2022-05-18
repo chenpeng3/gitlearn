@@ -4,3 +4,5 @@ git commit
 git checkout
 git pull
 git push
+git config --global user.name 'cp3'
+git config --global user.email '13163273772@163.com'
