@@ -8,3 +8,6 @@ git config --global user.name 'cp3'
 git config --global user.email '13163273772@163.com'
 git rm
 git mv
+git log --pretty=oneline
+git show
+git log -p 
