@@ -10,4 +10,5 @@ git rm
 git mv
 git log --pretty=oneline
 git show
-git log -p 
+git log -p
+git reset HEAD 
